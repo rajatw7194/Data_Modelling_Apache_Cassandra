@@ -1,5 +1,4 @@
 # Data Modeling With Apache Cassandra
- Project repo for the Udacity Data Engineering Program Project 1B.
 
  This README file includes a summary of the project, how to run the Python scripts, and an explanation of the files in the repository.
 
