@@ -36,6 +36,4 @@
 | song title                | text       |
 | userId                    | int        |
 
-Below is a screenshot of the csv
 
-![top five](./images/image_event_datafile_new.jpg)
